@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 Just clone and start working!
 
 ## Deployment
+This is how you deploy things
