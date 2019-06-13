@@ -12,3 +12,6 @@ Just clone and start working!
 This is how you deploy things
 
 ## Testing
+
+### Copyright
+brian janaszek
