@@ -22,4 +22,4 @@ You should really test your stuff.
 
 ### Copyright
 
-brian janaszek
+brian janaszek 2019
