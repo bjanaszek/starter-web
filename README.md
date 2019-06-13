@@ -13,5 +13,7 @@ This is how you deploy things
 
 ## Testing
 
+You should really test your stuff.
+
 ### Copyright
 brian janaszek
