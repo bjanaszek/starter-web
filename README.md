@@ -2,8 +2,6 @@
 
 This repository is for showing how Git and GitHub work
 
-Rebasing example
-
 ## Purpose
 
 Sample website with plenty of files for demos
@@ -14,7 +12,7 @@ Just clone and start working!
 
 ## Deployment
 
-This is how you deploy things
+You can deploy this website to any web host, or view from your browser locally.
 
 ## Testing
 
